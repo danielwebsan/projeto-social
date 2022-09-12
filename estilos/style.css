@@ -41,3 +41,21 @@ main{
     height: 471px;
     
 }
+.contatos{
+    text-align: right;
+}
+    
+    
+
+section img{
+          width: 50px;
+          border-radius: 50%;
+          box-shadow: 2px 3px 6px #00000077;
+            
+}
+.contatos img:hover{
+    border: 2px solid #ffffff83;
+    transform: translate(-3 -3);
+    box-shadow: 7px 7px 6px #0000004b;
+    transition: transform( 0.5s);
+}
